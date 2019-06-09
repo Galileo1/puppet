@@ -1,0 +1,34 @@
+{
+  "name": "puppet",
+  "version": "1.0.0",
+  "description": "Boilerplate for jest puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "2.4.2",
+    "cross-env": "5.2.0",
+    "fse": "4.0.1",
+    "jest": "24.8.0",
+    "jest-cli": "24.8.0",
+    "jest-junit": "6.4.0",
+    "lodash": "4.17.11",
+    "mkdirp": "0.5.1",
+    "puppeteer": "1.17.0",
+    "rimraf": "2.6.3",
+    "winston": "3.2.1",
+    "yaml": "1.6.0"
+  },
+  "devDependencies": {
+    "eslint": "5.16.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-plugin-html": "5.0.5",
+    "eslint-plugin-import": "2.17.3",
+    "jest-environment-node": "24.8.0",
+    "lint-staged": "8.2.0",
+    "prettier": "1.18.2"
+  }
+}
